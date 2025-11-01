@@ -7,7 +7,7 @@ This project predicts house prices based on various features such as overall qua
 ## 📊 Project Overview
 
 In the modern real estate market, accurate price estimation is crucial.  
-This project applies **Multiple Linear Regression**, **Ridge**, and **Lasso** regression techniques to predict house prices using the [Ames Housing dataset](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset) (an advanced version of the Boston dataset).
+This project applies **Multiple Linear Regression**, **Ridge**, and **Lasso** regression techniques to predict house prices.
 
 ---
 
